@@ -30,3 +30,19 @@ Tasks are stored in a JSON file, ensuring data persistence even after program te
 
 ## 📂 Project Structure
 
+task_manager/
+│
+├── task.py # Main Python program
+├── task.json # Task data storage (auto-created)
+└── README.md
+
+---
+
+## ▶️ How to Run the Project
+
+1. **Clone or download** the project
+2. Ensure **Python 3** is installed
+3. Run the program using:
+
+```bash
+python task.py
